@@ -1,4 +1,0 @@
-Security Incident Summary
-
-8.8.8.8 -> 2 failed attempts
-1.1.1.1 -> 1 failed attempts

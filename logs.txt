@@ -1,5 +1,0 @@
-User login success | IP: 192.168.1.1
-User login failed | IP: 8.8.8.8
-Admin login failed | IP: 1.1.1.1
-User login success | IP: 192.168.1.2
-Admin login failed | IP: 8.8.8.8
