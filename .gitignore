@@ -7,3 +7,6 @@ log_analyzer6.py
 log_analyzerP.py
 logs.txt
 report.txt
+log_analyzerssh.py
+ssh_logs.txt
+ssh_report.txt
