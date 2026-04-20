@@ -5,7 +5,10 @@ Security Incident Summary
 
 185.22.11.8: Possible brute-force attack detected.
 185.22.11.8 -> 3 failed attempts
-Country: None
-City: None
-Org: None
-------------------------------
+Country: Poland
+City: Ostrów Wielkopolski
+Org: Przedsiebiorstwo PROMAX Spolka Jawna Zofia Formanek-Okroj, Wieslaw Okroj
+
+========================================
+END OF REPORT
+Generated: 2026-04-20 12:00:55.734585
